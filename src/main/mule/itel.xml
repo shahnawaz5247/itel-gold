@@ -18,5 +18,6 @@ output application/json
 "mood khrab hai"]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
+		<logger level="INFO" doc:name="Logger" doc:id="cc24014e-7b88-4458-a94c-ab069de66079" message="paaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssss"/>
 	</flow>
 </mule>
